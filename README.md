@@ -1,9 +1,10 @@
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaochenyang20&layout=compact&theme=radical) 
 ### [WakaTime](https://wakatime.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhaochenyang20)](https://github.com/anuraghazra/github-readme-stats)
 
-、、、
+```python
 class Eren:
     def __init__(self, UUID: uuid.UUID) -> None:
         self.UUID = UUID
@@ -21,7 +22,7 @@ class Eren:
             return f"I am a {self.career[1]} now."
         else:
             return "Maybe I'll become an Author in the future!"
-
+    
     def hobby(self, index: int = random.randint(0, 69)) -> str:
         self.interests = [
             "Science Fiction", "Machine Learning", "Chemistry",
