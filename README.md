@@ -31,4 +31,6 @@ class Eren:
 world = Universe.World()
 ME = Eren(uuid.uuid5(world.UUID, "Eren Zhao"))
 ```
-<video src="https://zhaochenyang20.github.io/video/love is gone.mp4">
+
+# See More At
+[my about](https://zhaochenyang20.github.io/about/)
