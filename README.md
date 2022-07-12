@@ -7,7 +7,7 @@ class Eren:
         self.gender = Demiboy()
         self.pronouns = {"He", "Him"}
         self.code = ["Python", "JavaScript", "C/C++", "Linux"]
-        self.OS = ("Windows", "Linux", "Android")
+        self.OS = ("MacOS", "Linux")
 
     def career(self, year: int) -> str:
         self.career = ["Student", "CV Engineer"]
@@ -33,4 +33,4 @@ ME = Eren(uuid.uuid5(world.UUID, "Eren Zhao"))
 ```
 
 # See More At
-[my about](https://zhaochenyang20.github.io/about/)
+**[my about](https://zhaochenyang20.github.io/about/)**
