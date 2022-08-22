@@ -12,14 +12,14 @@ class Eren:
         self.OS = ("MacOS", "Linux")
 
     def career(self, year: int) -> str:
-        self.career = ["Student", "CV Engineer"]
+        self.career = ["Student", "NLP scientist"]
         now: int = time.localtime()[0]
         if year < now:
             return f"I was a {self.career[0]}."
         elif year == now:
             return f"I am a {self.career[1]} now."
         else:
-            return "Maybe I'll become an Author in the future!"
+            return "Maybe I'll become a Writer in the future!"
     
     def hobby(self, index: int = random.randint(0, 69)) -> str:
         self.interests = [
