@@ -4,34 +4,47 @@
  -->
  
 ```python
+
+import random
+import time
+import uuid
+
 class Eren:
-    def __init__(self, UUID: uuid.UUID) -> None:
-        self.UUID = UUID
-        self.gender = Demiboy()
-        self.pronouns = {"Eren", "Chenyang"}
-        self.code = ["Python", "Linux"]
-        self.OS = ("MacOS", "Linux")
+    def __init__(self, uuid: uuid.UUID) -> None:
+        self.uuid = uuid
+        self.gender = 'boy with long hair'
+        self.pronouns = {'he', 'him', 'his'}
+        self.skills = ['Python', 'Linux', 'NLP']
+        self.os = ('MacOS', 'Linux')
 
     def career(self, year: int) -> str:
-        self.career = ["Student", "NLP researcher"]
-        now: int = time.localtime()[0]
-        if year < now:
-            return f"I was a {self.career[0]}."
-        elif year == now:
-            return f"I am a {self.career[1]} now."
+        current_year = time.localtime().tm_year
+        if year < current_year:
+            return f"In {year}, I was a student."
+        elif year == current_year:
+            return f"Now, I'm an NLP researcher!"
         else:
-            return "Maybe I'll become a Writer in the future!"
-    
-    def hobby(self, index: int = random.randint(0, 69)) -> str:
-        self.interests = [
-            "Science Fiction", "Machine Learning",
-            "Running", "Astronomy",
-            "Software Defined Radio", "Japanese",
-        ]  # And More
-        return self.interests[index % len(self.interests)]
+            return "Maybe in the future, I'll become a writer!"
 
-world = Universe.World()
-ME = Eren(uuid.uuid5(world.UUID, "Eren Zhao"))
+    def hobby(self) -> str:
+        interests = [
+            'Science Fiction', 'Machine Learning', 'Running',
+            'Astronomy', 'Software Defined Radio', 'Japanese',
+            'Playing Guitar', 'Sketching', 'Cooking',
+            'Hiking', 'Photography', 'Gaming'
+        ]
+        return random.choice(interests)
+
+world = 'Universe'
+uuid_ = uuid.uuid5(uuid.NAMESPACE_DNS, 'Eren Zhao')
+
+me = Eren(uuid_)
+
+print(f"Hi! I'm Eren, a {me.gender} with skills in {', '.join(me.skills)}.")
+print(f"I'm interested in {me.hobby()}, and my OS of choice is {me.os[0]}.")
+print(f"If you want to know what I was doing in the past or what I'm doing now, just ask me!")
+
+
 ```
 
 # See More At
