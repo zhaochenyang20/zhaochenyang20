@@ -42,7 +42,7 @@ me = Eren(uuid_)
 
 print(f"Hi! I'm Eren, a {me.gender} with skills in {', '.join(me.skills)}.")
 print(f"I'm interested in {me.hobby()}, and my OS of choice is {me.os[0]}.")
-print(f"If you want to know what I was doing in the past or what I'm doing now, just ask me!")
+print(f"If you want to know what I was doing in the past or what I'm doing now, just ask me through zhaochenyang20@gmail.com!")
 
 
 ```
