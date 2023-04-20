@@ -3,6 +3,17 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhaochenyang20)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
+
+<div style="display:flex;">
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/zhaochenyang20.github.io/master/img/profile.jpg" alt="profile" style="zoom:1%;" />
+  <img src="https://github.com/zhaochenyang20/zhaochenyang20.github.io/blob/master/img/profile_7.jpg" alt="profile" style="zoom:1%;" />
+</div>
+
+<div style="display:flex; flex-direction:row">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaochenyang20" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaochenyang20" width="495">
+</div>
+ 
 ```python
 
 import random
