@@ -5,13 +5,12 @@
  
 
 <div style="display:flex;">
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/zhaochenyang20.github.io/master/img/profile.jpg" alt="profile" width="340" />
-  <img src="https://github.com/zhaochenyang20/zhaochenyang20.github.io/blob/master/img/profile_7.jpg" alt="profile" width="300" />
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/zhaochenyang20.github.io/master/img/profile.jpg" alt="profile" width="531.25" />
+  <img src="https://github.com/zhaochenyang20/zhaochenyang20.github.io/blob/master/img/profile_7.jpg" alt="profile" width="468.75" />
 </div>
 
 <div style="display:flex; flex-direction:row">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaochenyang20" width="340">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaochenyang20" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaochenyang20" width="1000">
 </div>
  
 ```python
