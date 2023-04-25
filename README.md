@@ -59,10 +59,10 @@ print(f"just contact me through zhaochenyang20@gmail.com!")
 
 # See More At
 
-**[my about](https://zhaochenyang20.github.io/about/)**
+**[About Me](https://zhaochenyang20.github.io/about/)**
 
 **[my CV](https://chenyangzhao.vercel.app/about)**
 
-**[my literatures](https://zhaochenyang20.vercel.app/)**
+**[my literatures](https://chenyangzhao.vercel.app/)**
 
 
