@@ -9,6 +9,12 @@
   <img src="https://github.com/zhaochenyang20/zhaochenyang20.github.io/blob/master/img/profile_7.jpg" alt="profile" width="375" />
 </div>
 
+<div style="display:flex;">
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/meta_destop/2077_2.jpg" alt="profile" width="400" />
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/meta_destop/2077_1.jpg" alt="profile" width="400.0" />
+</div>
+
+
 <div style="display:flex; flex-direction:row">
   <img src="https://github-readme-stats.vercel.app/api?username=zhaochenyang20" width="800">
 </div>
@@ -53,7 +59,6 @@ me = Eren(uuid_)
 print(f"Hi! I'm Eren, a {me.gender} with skills in {', '.join(me.skills)}.")
 print(f"I'm interested in {me.hobby()}, and my OS of choice is {me.os[0]}.")
 print(f"just contact me through zhaochenyang20@gmail.com!")
-
 
 ```
 
