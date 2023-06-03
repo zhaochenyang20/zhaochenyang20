@@ -16,7 +16,7 @@
 
 
 <div style="display:flex; flex-direction:row">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaochenyang20" width="800">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaochenyang20" width="743">
 </div>
  
 ```python
