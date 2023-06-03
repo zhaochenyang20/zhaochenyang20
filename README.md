@@ -5,13 +5,13 @@
  
 
 <div style="display:flex;">
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/1.jpg" alt="profile" width="425.0" />
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/3.jpg" alt="profile" width="375" />
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/1.jpg" alt="profile" width="368" />
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/4.jpg" alt="profile" width="375" />
 </div>
 
 <div style="display:flex;">
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/4.jpg" alt="profile" width="400" />
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/5.jpg" alt="profile" width="400.0" />
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/3.jpg" alt="profile" width="393" height="473" />
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/2.jpg" alt="profile" width="350" />
 </div>
 
 
