@@ -1,24 +1,5 @@
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaochenyang20&layout=compact)](https://github.com/Christmas/github-readme-stats)
+# Eren Chenyang Zhao
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhaochenyang20)](https://github.com/anuraghazra/github-readme-stats)
- -->
- 
-
-<div style="display:flex;">
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/1.jpg" alt="profile" width="368" />
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/4.jpg" alt="profile" width="375" />
-</div>
-
-<div style="display:flex;">
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/3.jpg" alt="profile" width="393" height="473" />
-  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/2.jpg" alt="profile" width="350" />
-</div>
-
-
-<div style="display:flex; flex-direction:row">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaochenyang20" width="743">
-</div>
- 
 ```python
 
 import random
@@ -70,4 +51,18 @@ print(f"just contact me through zhaochenyang20@gmail.com!")
 
 **[my literatures](https://chenyangzhao.vercel.app/)**
 
+<div style="display:flex;">
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/1.jpg" alt="profile" width="368" />
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/4.jpg" alt="profile" width="375" />
+</div>
+
+<div style="display:flex;">
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/3.jpg" alt="profile" width="393" height="473" />
+  <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/2.jpg" alt="profile" width="350" />
+</div>
+
+
+<div style="display:flex; flex-direction:row">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaochenyang20" width="743">
+</div>
 
