@@ -45,11 +45,9 @@ print(f"just contact me through zhaochenyang20@gmail.com!")
 
 # See More At
 
-**[About Me](https://zhaochenyang20.github.io/about/)**
+**[My Anecdote](https://zhaochenyang20.github.io/about/)**
 
-**[my CV](https://chenyangzhao.vercel.app/about)**
-
-**[my literatures](https://chenyangzhao.vercel.app/)**
+**[my Personal Info](https://zhaochenyang20.github.io/Eren_Chenyang_Zhao/)**
 
 <div style="display:flex;">
   <img src="https://raw.githubusercontent.com/zhaochenyang20/ivue_wallpaper/main/github_readme/1.jpg" alt="profile" width="368" />
