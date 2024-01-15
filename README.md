@@ -43,6 +43,10 @@ print(f"just contact me through zhaochenyang20@gmail.com!")
 
 ```
 
+江水、高墙、犬吠决不能阻止他们的出逃，因为他们的心中有一座灯塔，比主体思想塔更明亮，更永垂不朽，他们的心中有一座宫殿，比锦绣山太阳宫更屹立不倒。
+
+The rivers, high walls, and barking dogs cannot stop their escape, because in their hearts, there is a lighthouse brighter and more eternal than the Tower of Juche ideology. In their hearts, there is a palace more unshakable than the Kumsusan Palace of the Sun.
+
 # See More At
 
 **[My Anecdote](https://zhaochenyang20.github.io/about/)**
