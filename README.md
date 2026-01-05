@@ -1,3 +1,5 @@
+# “Life without impact is a life unlived.”
+
 赵晨阳，男，出没于洛杉矶附近陆地
 
 未婚未育，与女友感情稳定，无不良嗜好
