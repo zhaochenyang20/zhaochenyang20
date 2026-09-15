@@ -21,3 +21,12 @@ Unmarried, no children; in a stable relationship; free of any "bad habits." Born
 According to medical professionals, his body temperature—much like his mental state—is perfectly "normal."
 
 He is pursuing a Ph.D. in Computer Science at UCLA, having earned his Bachelor’s degree from the Department of Computer Science and Technology at Tsinghua University.
+
+<div align="center">
+  <a href="https://ghfind.com/u/zhaochenyang20?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/zhaochenyang20?theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/zhaochenyang20?theme=light" alt="GitHub Roast score card" width="80%" />
+    </picture>
+  </a>
+</div>
